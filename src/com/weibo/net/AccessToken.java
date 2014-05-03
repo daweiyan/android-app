@@ -27,7 +27,7 @@ public class AccessToken extends Token {
 	public AccessToken(String rlt){
 		super(rlt);
 	}
-	
+	/***************20140504**********************************/
 	public AccessToken(String token , String secret){
 		super(token, secret);
 	}
